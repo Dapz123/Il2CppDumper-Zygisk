@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "il2cppdumper"
+    magiskModuleId = "packageil2cppdumper"
+    moduleName = "GameDumper"
+    moduleAuthor = "Perfare"
+    moduleDescription = "Il2CppDumper Zygisk version | Dump method only"
+    moduleVersion = "v1.2.0"
+    moduleVersionCode = 1
+}
